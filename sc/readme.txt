@@ -1,1 +1,0 @@
-run starcraft.exe

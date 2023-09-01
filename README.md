@@ -1,2 +1,0 @@
-# skool humans
- ass
